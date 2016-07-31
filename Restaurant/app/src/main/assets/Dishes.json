@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Coca-Cola",
+    "price": "2",
+    "type": "Drink"
+  },
+  {
+    "name": "Beer",
+    "price": "3",
+    "type": "Drink"
+  },
+  {
+    "name": "Bread",
+    "price": "4",
+    "type":"appetizer"
+  },
+  {
+    "name": "Shrimps",
+    "price": "5",
+    "type":"appetizer"
+  },
+  {
+    "name": "Hamburger",
+    "price": "10",
+    "type":"Main"
+  },
+  {
+    "name": "Pizza",
+    "price": "11",
+    "type": "Main"
+  },
+  {
+    "name": "Ice-Cream",
+    "price": "7",
+    "type":"Desert"
+  },
+  {
+    "name": "Cake",
+    "price": "8",
+    "type": "Desert"
+  }
+]
